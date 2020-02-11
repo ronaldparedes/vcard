@@ -1,0 +1,10 @@
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "title": "CEO",
+  "gender": "male",
+  "email": "jsmith@myworkplace.com",
+  "direct": "(555) 555-5555",
+  "mobile": "(444) 444-4444",
+  "location": "Washington, D.C."
+}
